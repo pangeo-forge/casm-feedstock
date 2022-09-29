@@ -7,7 +7,7 @@ recipes:
 provenance:
   providers:
     - name: 'Olya Skulovich'
-      description: 'The CASM dataset was creted by Olya Skulovich, Pierre Gentine, Columbia University. Available to public on Zenodo'
+      description: 'The CASM dataset was created by Olya Skulovich, Pierre Gentine, Columbia University. Available to public on Zenodo'
       roles:
         - producer
         - licensor
